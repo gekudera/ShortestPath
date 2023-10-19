@@ -1,0 +1,17 @@
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\bin\Debug\net6.0\Final_work.exe
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\bin\Debug\net6.0\Final_work.deps.json
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\bin\Debug\net6.0\Final_work.runtimeconfig.json
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\bin\Debug\net6.0\Final_work.dll
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\bin\Debug\net6.0\Final_work.pdb
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.csproj.AssemblyReference.cache
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfoInputs.cache
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfo.cs
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.csproj.CoreCompileInputs.cache
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.dll
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\refint\Final_work.dll
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.pdb
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.genruntimeconfig.cache
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\ref\Final_work.dll
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\My_programs\Мага. Диплом. Поиск кратчайшего пути\Final_work\Final_work\obj\Debug\net6.0\Final_work.csproj.CopyComplete
